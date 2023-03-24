@@ -4,10 +4,7 @@ import time
 
 os.system('cls')
 
-print('''\nRecomendacao: Usar apos voce ser banido por uso de programas ilegais ao ver da RIOT.
-Esse script vai apenas apagar alguns logs do League of legends.
-ISSO NAO É UM BYPASS, nao existe uma comprovacao que isso vai evitar banimentos futuros
-entao se voce for banido apos o uso do mesmo, nao reclame.\n\n''')
+print('''\nEsse script vai apenas apagar alguns logs do League of legends..\n\n''')
 
 def sc():
     deccy7331deccy7331deccy7331deccy7331deccy7331deccy7331deccy7331deccy7331deccy7331 = os.getlogin()
